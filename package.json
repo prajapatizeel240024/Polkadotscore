@@ -1,0 +1,11 @@
+{
+     "name": "polkadotscore",
+     "version": "1.0.0",
+     "description": "ASCII art coding challenge - Calculate polkadot score",
+     "main": "computePolkadotScore.js",
+     "scripts": {
+       "start": "node computePolkadotScore.js"
+     },
+     "author": "Zeel",
+     "license": "MIT"
+   }
